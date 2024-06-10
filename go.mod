@@ -13,7 +13,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ssm v1.49.5
 	github.com/aws/smithy-go v1.20.2
 	github.com/charmbracelet/lipgloss v0.10.0
-	github.com/fatih/color v1.16.0
+	github.com/fatih/color v1.17.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/joho/godotenv v1.5.1
 	github.com/muesli/termenv v0.15.2
