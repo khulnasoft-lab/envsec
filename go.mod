@@ -11,7 +11,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/credentials v1.17.11
 	github.com/aws/aws-sdk-go-v2/service/cognitoidentity v1.23.6
 	github.com/aws/aws-sdk-go-v2/service/ssm v1.49.5
-	github.com/aws/smithy-go v1.20.2
+	github.com/aws/smithy-go v1.22.0
 	github.com/charmbracelet/lipgloss v0.10.0
 	github.com/fatih/color v1.16.0
 	github.com/hashicorp/go-multierror v1.1.1
